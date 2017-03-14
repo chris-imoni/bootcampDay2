@@ -1,2 +1,3 @@
-# bootcampDay2
-Repo for Andela bootcamp excercises (wordCount and reverseString) day 2
+# Andela Bootcamp day 2 excercises
+Explore the respective folder to find SpecRunner.html. 
+Run the SpecRunner to see all test passes the test cases
